@@ -14,4 +14,10 @@ def resta(num1, num2):
 
 print(f"Esta es la resta de 25 menos 15: " + str(resta(25,15)))
 
+def multiplicacion(num1, num2):
+    print("Aqui se realizara la multiplicacion")
+    return num1 * num2
+
+print(f"La resta de los numeros es: "+ str(multiplicacion(5,8)))
+
 
